@@ -46,13 +46,10 @@ create table board (<br/>
 :exclamation: <b>클라이언트 접속</b><br/>
 npm start
 <br/>
-
-<br/>
 <br/>
 :exclamation: <b>서버 접속</b><br/>
 npm run dev
-
-
+<br/>
 <br/><br/>
 아래는 로컬에서 보여지는 화면입니다.<br/>
 http://localhost:3000/

@@ -46,9 +46,7 @@ create table board (<br/>
 :exclamation: <b>클라이언트 접속</b><br/>
 npm start
 <br/>
-<br/>
-http://localhost:3000/
-<br/>
+
 <br/>
 <br/>
 :exclamation: <b>서버 접속</b><br/>
@@ -56,7 +54,8 @@ npm run dev
 
 
 <br/><br/>
-아래는 로컬에서 보여지는 화면입니다.
+아래는 로컬에서 보여지는 화면입니다.<br/>
+http://localhost:3000/
 <br/><br/>
 ![image](https://github.com/darae729/1005_board/assets/132329442/3df7819f-66b7-40c4-a8b4-023b64a58d37)
 <br/><br/></br>

@@ -72,7 +72,7 @@ npm run dev
 
 <br/><br/><br/>
 게시판 글 목록에 나타나게 됩니다.<br/>
-해당 연도/월/날짜가 나타나게 구현하였습니다.
+해당 연도/월/날짜가 나타나도록 구현하였습니다.
 <br/><br/>
 ![image](https://github.com/darae729/1005_board/assets/132329442/2d3f49b9-2542-4301-9fee-3041167c2d3a)
 <br/><br/></br>

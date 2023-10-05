@@ -146,7 +146,7 @@ class BoardList extends Component<IProps> {
                         <tr>
                             <th>CHECK</th>
                             <th>NO.</th>
-                            <th>CONTENT</th>
+                            <th>TITLE</th>
                             <th>WRITER</th>
                             <th>DATE</th>
                         </tr>

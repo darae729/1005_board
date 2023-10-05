@@ -66,7 +66,7 @@ npm run dev
 ![image](https://github.com/darae729/1005_board/assets/132329442/57918642-f669-4424-a496-67d196fdb34f)
 
 <br/><br/>
-타이틀과 내용을 입력 후 확인 버튼을 누르면
+타이틀과 내용을 입력 후 등록 버튼을 누르면
 <br/><br/>
 ![image](https://github.com/darae729/1005_board/assets/132329442/e156e0dd-8b09-4be4-9ae2-abf278a2a264)
 
@@ -83,7 +83,7 @@ npm run dev
 
 <br/><br/><br/>
 또한 수정하고 싶은 목록을 체크 한 뒤 수정 버튼을 누르고 <br/>
-원하는 값을 입력 후 확인 버튼을 누르면 </br></br>
+원하는 값을 입력 후 등록 버튼을 누르면 </br></br>
 ![image](https://github.com/darae729/1005_board/assets/132329442/7c22ec25-4e47-4941-b313-5597600fd437)
 
 <br/><br/>
